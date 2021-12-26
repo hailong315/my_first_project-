@@ -1,0 +1,232 @@
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll.config
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.pdb
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll.config
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.pdb
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll.config
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.pdb
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Infrastructure.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.xml
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.dll
+D:\NguyenTrongDuong\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll.config
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.pdb
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Infrastructure.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.xml
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.dll
+D:\NguyenTrongDuong\New folder (2)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll.config
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.pdb
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Infrastructure.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.xml
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.dll
+D:\NguyenTrongDuong\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll.config
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.pdb
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Infrastructure.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.xml
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.dll
+F:\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll.config
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.pdb
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.xml
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.dll
+C:\Users\hailo\Desktop\GiaLaiHotel\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
